@@ -1,0 +1,1 @@
+Here I have explored a bakery's transaction (data comes from Kaggle and added to this repository).  I tried to answer the following questions- what are the bestsellers, how is the bakery doing, extracting frequent itemsets using apriori algorithm and presenting their association using NetworkX. 
